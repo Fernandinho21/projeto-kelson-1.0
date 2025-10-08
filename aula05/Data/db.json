@@ -1,0 +1,22 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Ana Silva",
+            "idade": 22,
+            "curso": "Engenharia de Software"
+        },
+        {
+            "id": 2,
+            "nome": "Bruno Souza",
+            "idade": 24,
+            "curso": "Ciência da Computação"
+        },
+        {
+            "id": 3,
+            "nome": "Carla Mendes",
+            "idade": 21,
+            "curso": "Sistemas de Informação"
+        }
+    ]
+    }
