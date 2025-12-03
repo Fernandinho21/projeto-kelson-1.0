@@ -19,6 +19,8 @@ Repositório dedicado ao aprendizado e prática de **React.js** durante as aulas
 - CSS3
 
 ## 🎯 Objetivo
+-------------------------------------------------------------
+link do repositorio para acessar: https://github.com/Fernandinho21/projeto-kelson-1.0.git
 
 Consolidar conhecimentos em React através de exercícios práticos e desenvolvimento de componentes funcionais.
 
