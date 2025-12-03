@@ -10,8 +10,7 @@ Repositório dedicado ao aprendizado e prática de **React.js** durante as aulas
 - ✅ Estilização com CSS inline e styled components
 - ✅ Integração de imagens e assets
  ---------------------------------------------------------
-{https://cdn.discordapp.com/attachments/981149633164226562/1445872098688897024/image.png?ex=6931ecd3&is=69309b53&hm=e8e92484b379bf87302a9a49c1b59d94b16ae24e5518c0bb65923c809849c576&}
- 
+<img src='https://cdn.discordapp.com/attachments/981149633164226562/1445872098688897024/image.png?ex=6931ecd3&is=69309b53&hm=e8e92484b379bf87302a9a49c1b59d94b16ae24e5518c0bb65923c809849c576&'> 
 ## 🛠️ Tecnologias
 
 - React.js
